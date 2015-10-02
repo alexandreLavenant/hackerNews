@@ -2,12 +2,17 @@ README
 
 Get the best news of hackernews.com.
 
-I. Installation
+I. Get the repository
+--------------------
+```
+git clone https://github.com/alexandreLavenant/hackerNews.git
+```
+II. Installation
 ---------------
 ```js
 npm install
 ```
-II. Run Program
+III. Run Program
 ---------------
 ```js
 node index.js
